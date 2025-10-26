@@ -11066,6 +11066,11 @@ header.masthead .masthead-heading {
   cursor: pointer;
   background-color: transparent;
 }
+#departments .portfolio-item img.img-fluid {
+            height: 200px; /* İstediğiniz yüksekliği ayarlayabilirsiniz (örn: 250px) */
+            width: 100%;    /* Genişliğin sütunu doldurmasını sağlar */
+            object-fit: cover; /* Resmi kırparak alanı doldurur, oranı korur */
+        }
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
