@@ -1,0 +1,241 @@
+commit 0d5a98d790273acb127dd8318b4a4d4ce953954a
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:23:11 2025 +0300
+
+    scss completed
+
+commit 8a637681801fa1f7bfdcbc39f17d88621175485d
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:43 2025 +0300
+
+    Create _mixins.scss
+
+commit b3f25c44deafec271d9bf035aed42e1b9c17d7b8
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:41 2025 +0300
+
+    Create _nav.scss
+
+commit 2a36e4d03558f45eef2d45a29ff6fa7a14762520
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:40 2025 +0300
+
+    Create _helpers.scss
+
+commit a290d40c02aaa6db4be03a415bc6aa96904bd5e4
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:33 2025 +0300
+
+    Create _list-group.scss
+
+commit 613593e5f93ff396de8bcbb1362ac8d74db587c0
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:31 2025 +0300
+
+    Create _grid.scss
+
+commit 05b4fdd56416a9a3315df50e91b5f9f56cda6141
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:30 2025 +0300
+
+    Create _functions.scss
+
+commit d9677f6e4b2617156d29c65272dd3f235a9fc11e
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:26 2025 +0300
+
+    Create _forms.scss
+
+commit 92e5b250f6e233efbfdfe57ccd5ea379c9ff509e
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:23 2025 +0300
+
+    Create _modal.scss
+
+commit b545a27477d3757233550d5efa9dcc08c6c0defc
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:22 2025 +0300
+
+    Create _maps.scss
+
+commit 1a5f3005d5af8c2bb9470c488c9a8faf269b233b
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:20 2025 +0300
+
+    Create _images.scss
+
+commit 9744515a708641ca252aac8016afa6abb4754572
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:11 2025 +0300
+
+    Create _close.scss
+
+commit c5035070a4431f03181362d77314b58ace625d8a
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:09 2025 +0300
+
+    Create _card.scss
+
+commit 919d898c58b73d99dba2363e1c47ed1d6c9e3d54
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:08 2025 +0300
+
+    Create _badge.scss
+
+commit 3d3ece4275ef570427f69f2125b89e24f20971a1
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:06 2025 +0300
+
+    Create _accordion.scss
+
+commit 1543c2413ec8eacbba1e364e9981dafcab16b161
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:04 2025 +0300
+
+    Update index.html
+
+commit 4ad56f6d470759b116b130bb6b41e56a69e5f2a7
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:02 2025 +0300
+
+    Create main.css
+
+commit 991fbb653294acce48a4c2d3f3ee456b1dc50562
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:22:00 2025 +0300
+
+    Update department.html
+
+commit 14b224ff7efa4259d67ec4ccfb3eba5bbb2238c1
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:21:58 2025 +0300
+
+    Delete styles.css
+
+commit 8f7f2e7d9d5fc499663121d046bcc4c7f8dbad0c
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:21:54 2025 +0300
+
+    Create bootstrap.css
+
+commit 1e35405c067b3b0333094793880deb4e8755b0f5
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:21:50 2025 +0300
+
+    Create bootstrap-utilities.css
+
+commit 712986cf1a4a77a9f1e473dc8fc1b3bb68470936
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:21:49 2025 +0300
+
+    Create bootstrap-reboot.css
+
+commit 59c4929921f9ff598181f173df381327e8bc7fda
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:21:47 2025 +0300
+
+    Create bootstrap-grid.css
+
+commit bee1b000ff956bb622f01cc1f05e0924bb9c863c
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:21:45 2025 +0300
+
+    Update settings.json
+
+commit 4d3b8983cb83a66cac906cbf17132a7fa97b74fd
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:05:03 2025 +0300
+
+    Update styles.css
+
+commit 115659629957a07dee12af41cdf2bd418033c26c
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:04:06 2025 +0300
+
+    Create settings.json
+
+commit 7e40a70dbd15603c9a98dbec4545d4129cc7e199
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 20:59:26 2025 +0300
+
+    Homepage changed
+
+commit 84d69d2056c3b0f87ced59d039ee107a0fefb7eb
+Author: Mohamed Gamal <mohameed6907@gmail.com>
+Date:   Mon Oct 27 20:56:19 2025 +0300
+
+    changing of photo in assets\img
+
+commit b80240335803a83128b8fef493e646eda40cd218
+Merge: 7382331 323a888
+Author: Mohamed Gamal <mohameed6907@gmail.com>
+Date:   Mon Oct 27 20:22:43 2025 +0300
+
+    Merge branch 'main' of https://github.com/bugraozkaya/WebProject
+
+commit 73823318f4959e30cb162fa652ecf8c50716bf1b
+Author: Mohamed Gamal <mohameed6907@gmail.com>
+Date:   Mon Oct 27 20:15:58 2025 +0300
+
+    changing the photo of homescreen
+
+commit f2ef11ffdac02951f4ae78a6a078cabae733a21e
+Author: Mohamed Gamal <mohameed6907@gmail.com>
+Date:   Mon Oct 27 19:20:48 2025 +0300
+
+    phot of head changed
+
+commit 323a88858635c57307160e9f97a474471f6b13a3
+Author: Ahmet Buğra Özkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 12:06:10 2025 +0300
+
+    Site kısmı tamam
+
+commit a7e8f11c0a0304f2fa198afc631574909513af83
+Author: Ahmet Buğra Özkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 11:55:53 2025 +0300
+
+    Team kısmı tamam
+
+commit edf974fc0e8e2a60909a6111250d20c02dba62c9
+Author: Ahmet Buğra Özkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Sun Oct 26 21:56:25 2025 +0300
+
+    Hakkında kısmı tamam
+
+commit 1631c139455162457967bf4e9b0779e455d428c2
+Author: Ahmet Buğra Özkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Sun Oct 26 21:40:15 2025 +0300
+
+    Department kısmı tamam
+
+commit dfef20d441c906c2085534e9691c16147c19daaa
+Author: Ahmet Buğra Özkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Fri Oct 24 11:52:08 2025 +0300
+
+    Added 3 sayfa
+
+commit f3c50d7efa181f080d9c2092bb7cee434befeb96
+Author: Mohammed Gamal Ali Mahyoub <220201029@sivas.edu.tr>
+Date:   Fri Oct 24 10:57:12 2025 +0300
+
+    Merge branch 'main' of https://github.com/bugraozkaya/WebProject
+
+commit b12db3d9f1407cd709d22d4495031289a82bd5a1
+Merge: 4b74eff bbc0079
+Author: Mohammed Gamal Ali Mahyoub <220201029@sivas.edu.tr>
+Date:   Fri Oct 24 10:46:58 2025 +0300
+
+    Merge branch 'main' of https://github.com/bugraozkaya/WebProject
+
+commit 4b74effa6a2b8e670fa32053254cb68c2380e8ee
+Author: Mohammed Gamal Ali Mahyoub <220201029@sivas.edu.tr>
+Date:   Fri Oct 24 10:39:39 2025 +0300
+
+    Initial commit: Add bootstrap template files
+
+commit bbc00790c21174d1813f3c4464c6b72b6137487a
+Author: bugraozkaya <148966177+bugraozkaya@users.noreply.github.com>
+Date:   Fri Oct 24 09:53:58 2025 +0300
+
+    Initial commit
