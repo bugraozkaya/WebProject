@@ -1,3 +1,21 @@
+commit e68df600baf693c274ff413bf23144dadf2801a4
+Author: Mohamed Gamal <mohameed6907@gmail.com>
+Date:   Mon Oct 27 22:29:38 2025 +0300
+
+    Readme file is completed
+
+commit 2477756871962656c91c1ca27bd83e736de5b96c
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 22:11:39 2025 +0300
+
+    Fix: WebProject submodule hatasi giderildi, dosyalar eklendi
+
+commit 258047d6b5712c685d40f4db1b46c14f5b8b0adf
+Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
+Date:   Mon Oct 27 21:28:39 2025 +0300
+
+    Create project_log.txt
+
 commit 0d5a98d790273acb127dd8318b4a4d4ce953954a
 Author: bugraozkaya <ahmetbugraozkaya14@gmail.com>
 Date:   Mon Oct 27 21:23:11 2025 +0300
