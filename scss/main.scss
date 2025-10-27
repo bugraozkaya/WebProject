@@ -1,0 +1,26 @@
+// 1. Kendi Özel Değişkenlerinizi Tanımlayın
+// Ödev, renk ve font değişiklikleri istiyor.
+// Bootstrap'in varsayılanlarını burada "ezebilirsiniz".
+
+// Örnek: Ana rengi (primary) değiştirelim
+$primary: #900; // Koyu kırmızı bir renk
+$secondary: #6c757d; // Gri
+
+// Örnek: Gövde (body) fontunu değiştirelim
+$font-family-base: "Arial", sans-serif;
+
+// 2. Bootstrap'i İçe Aktarın (Import)
+// Kendi değişkenleriniz tanımlandıktan SONRA, Bootstrap'i içe aktarın.
+@import "bootstrap/scss/bootstrap";
+
+// 3. Kendi Özel Stillerinizi Ekleyin
+// Buraya kendi özel CSS (veya SASS) kodlarınızı yazabilirsiniz.
+// Örnek:
+.navbar-brand {
+    font-weight: bold;
+}
+
+.universite-tanitim {
+    padding: 4rem 0;
+    background-color: $gray-100;
+}
